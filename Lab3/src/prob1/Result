@@ -1,0 +1,9 @@
+Person p1 = new PersonWithJob("Joe",3000);
+Person p2 = new Person("Joe");
+
+Here, p1.equals(p2) is false as p1 is the reference of Child class i.e PersonWithJob and it has overridden the equals method
+and has applied both name and salary to be equal so that the object can be equal.
+
+In second, p2.equals(p1) is true as p2 is the object of Person class and in its equals method, only the name is checked to be equal
+so that the objects can be said as equal.
+

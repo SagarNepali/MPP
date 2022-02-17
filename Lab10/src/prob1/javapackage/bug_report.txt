@@ -1,0 +1,20 @@
+Tom Jones
+	 severity: 1
+	 className: prob1.javapackage.ClosedCurve
+	 description: 
+	 reportedBy: Corazza
+
+	 severity: 2
+	 className: prob1.javapackage.Rectangle
+	 description: computePerimeter incorrect
+	 reportedBy: Corazza
+Joe Smith
+	 severity: 1
+	 className: prob1.javapackage.ClosedCurve
+	 description: 
+	 reportedBy: Corazza
+
+	 severity: 2
+	 className: prob1.javapackage.Rectangle
+	 description: computePerimeter incorrect
+	 reportedBy: Corazza

@@ -1,0 +1,16 @@
+4. a
+=> List<Integer> ints = new ArrayList<>();
+   ints.add(1);
+   ints.add(2);
+   List<? extends Number> nums = ints;
+   double dbl = sum(nums);
+   nums.add(3.14); //compiler error occurs here
+
+
+4.b
+=> List<Object> objs = new ArrayList<>();
+   objs.add(1);
+   objs.add("two");
+   List<? super Integer> ints = objs;
+   ints.add(3);
+   double dbl = sum(ints); //compiler error

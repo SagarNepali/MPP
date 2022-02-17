@@ -1,0 +1,2 @@
+The code is implemented to equal based on name and salary attribute of employee
+but there was another visited attribute checked for equals. Therefore, removing that will solve the issue.

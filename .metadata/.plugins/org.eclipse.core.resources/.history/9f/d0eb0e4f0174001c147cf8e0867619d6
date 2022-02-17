@@ -1,0 +1,15 @@
+package prob2.prob2A;
+
+public class Student {
+	
+	private String name;
+	
+	private GradeReport report;
+	
+	Stundent(String name){
+		this.name = name;
+		this.report = new GradeReport(); 
+				
+	}
+
+}

@@ -1,0 +1,3 @@
+This has the right implementation of equals but has no hashcode implementation as it uses hashmap and we are using
+Employee objects attributes for equals so we need object.hash with the attributes,
+we need to implement hashcode.

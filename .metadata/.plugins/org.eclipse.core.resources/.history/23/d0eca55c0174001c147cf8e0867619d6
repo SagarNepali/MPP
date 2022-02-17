@@ -1,0 +1,13 @@
+package prob2.prob2A;
+
+public class GradeReport {
+
+
+	private Student student;
+	
+	private String grade;
+	
+	public GradeReport(Student student2) {
+		// TODO Auto-generated constructor stub
+	}
+}

@@ -1,0 +1,2 @@
+The equals method is inherited from the object class. We need to cast the the object instance from Object
+to employee object so that the equal method will work fine

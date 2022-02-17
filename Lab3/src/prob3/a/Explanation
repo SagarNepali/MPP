@@ -1,0 +1,3 @@
+It does not makes sense to use inheritance here as the practical approach of circle is not completed. Height is irrelevant for Circle.
+Also, we use inheritance for polymorphism but we cannot achieve dynamic binding if we create a Parent reference with Child Object, we cannot even call
+the only method of Circle which is compute area.

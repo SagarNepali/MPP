@@ -1,0 +1,18 @@
+1 a.
+    List<Integer> ints = new ArrayList<>();
+    ints.add(1);
+    ints.add(2);
+    List<Number> nums = ints; // generic subtying is not covariant
+    nums.add(3.14);
+
+1 b.
+    List<Integer>ints = new ArrayList();
+    ints.add(1);
+    ints.add(2);
+    List<? extends Number> nums = ints;
+    nums.add(3.14);
+
+    //with ? extends, it has a limitation so we cannot add more element in it
+
+
+

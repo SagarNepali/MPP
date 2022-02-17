@@ -1,0 +1,3 @@
+A.
+    If two Employee objects have the same name, return value of compare is true.
+    But objects are said to be equal if both name and salary is equal in Employees equals() method.

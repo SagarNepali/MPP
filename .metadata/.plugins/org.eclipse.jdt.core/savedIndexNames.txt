@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+F:\Workspace\MIU\MPP\.metadata\.plugins\org.eclipse.jdt.core
+1130645932.index
+223696616.index
+1865797976.index

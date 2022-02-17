@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66fded46-6320-41dc-af19-7498aac11be2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23kfDkoS2YRDVUdRGaZtScvID72" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lms-mpp-miu" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workspace\MIU\MPP\Lab5\src\prob4" />
+      <recent name="F:\Workspace\MIU\MPP\Lab5\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Workspace\MIU\MPP\Lab5\src\prob3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Son">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob3.Main" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob4.extpackage.Main" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob4.extpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob2.Main" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prob1.gui.MainFrame" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prob1.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Son" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midterm.Son" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="midterm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Son" />
+        <item itemvalue="Application.MainFrame" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66fded46-6320-41dc-af19-7498aac11be2" name="Default Changelist" comment="" />
+      <created>1642282887480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642282887480</updated>
+      <workItem from="1642282891107" duration="10049000" />
+      <workItem from="1642523487565" duration="1372000" />
+      <workItem from="1642611252762" duration="197000" />
+      <workItem from="1642611672674" duration="2257000" />
+      <workItem from="1642699975745" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="797" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1642288706347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="797" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1642288706347" />
+    <state x="363" y="103" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1642611432007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="103" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1642611432007" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1642700051677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1642700051677" />
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom" timestamp="1642525148228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642525148228" />
+    <state width="1323" height="197" key="GridCell.Tab.0.center" timestamp="1642525148228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1642525148228" />
+    <state width="1323" height="197" key="GridCell.Tab.0.left" timestamp="1642525148228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1642525148228" />
+    <state width="1323" height="197" key="GridCell.Tab.0.right" timestamp="1642525148228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1642525148228" />
+    <state width="1323" height="402" key="GridCell.Tab.1.bottom" timestamp="1642301251934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="402" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642301251934" />
+    <state width="1323" height="402" key="GridCell.Tab.1.center" timestamp="1642301251934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="402" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1642301251934" />
+    <state width="1323" height="402" key="GridCell.Tab.1.left" timestamp="1642301251934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="402" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1642301251934" />
+    <state width="1323" height="402" key="GridCell.Tab.1.right" timestamp="1642301251934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="402" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1642301251934" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1642612629375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1642612629375" />
+    <state x="0" y="0" key="new project wizard" timestamp="1642613051701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1642613051701" />
+    <state x="655" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1642286887772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="655" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1642286887772" />
+  </component>
+</project>

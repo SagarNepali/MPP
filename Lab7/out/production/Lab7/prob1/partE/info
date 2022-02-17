@@ -1,0 +1,4 @@
+i. -> The implementer class must override the method or make that method as abstract.
+
+ii. -> If D is also an interface, all B,C,D interface will have the signature and the super class also has the
+        method, so super class implementer will execute. The subclass is not compelled to override the shared method.
